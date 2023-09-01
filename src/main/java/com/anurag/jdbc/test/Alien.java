@@ -1,0 +1,13 @@
+package com.anurag.jdbc.test;
+
+public class Alien {
+    private String name;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+}
